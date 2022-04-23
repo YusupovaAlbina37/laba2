@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ICG, laba2", "ICG, laba2\ICG, laba2.vcxproj", "{953963ED-A21F-4256-8964-8DF9A3A02631}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{953963ED-A21F-4256-8964-8DF9A3A02631}.Debug|x64.ActiveCfg = Debug|x64
+		{953963ED-A21F-4256-8964-8DF9A3A02631}.Debug|x64.Build.0 = Debug|x64
+		{953963ED-A21F-4256-8964-8DF9A3A02631}.Debug|x86.ActiveCfg = Debug|Win32
+		{953963ED-A21F-4256-8964-8DF9A3A02631}.Debug|x86.Build.0 = Debug|Win32
+		{953963ED-A21F-4256-8964-8DF9A3A02631}.Release|x64.ActiveCfg = Release|x64
+		{953963ED-A21F-4256-8964-8DF9A3A02631}.Release|x64.Build.0 = Release|x64
+		{953963ED-A21F-4256-8964-8DF9A3A02631}.Release|x86.ActiveCfg = Release|Win32
+		{953963ED-A21F-4256-8964-8DF9A3A02631}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7D187E5-610A-4766-B1B5-F00D9CBC80E3}
+	EndGlobalSection
+EndGlobal
